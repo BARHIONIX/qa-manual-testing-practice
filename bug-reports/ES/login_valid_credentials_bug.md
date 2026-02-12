@@ -34,4 +34,5 @@ Alta
 Alta
 
 ## Evidencia
-N/A Ejemplo de un reporte de bug
+N/A Ejemplo de reporte de bug
+
