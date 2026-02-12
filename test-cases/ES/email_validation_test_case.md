@@ -1,5 +1,9 @@
 # Caso de Prueba
 
+## Contexto
+Este es un caso de prueba negativo genérico enfocado en la validación del formato de correo electrónico.
+Se incluye como ejemplo de diseño de casos de prueba y no fue ejecutado en SauceDemo.
+
 ## ID del Caso de Prueba
 TC-02
 
@@ -22,4 +26,4 @@ El sistema muestra un mensaje donde el formato de correo electrónico es inváli
 (Por completar durante la ejecución)
 
 ## Estatus
-Aprobado / Fallido 
+No ejecutado
