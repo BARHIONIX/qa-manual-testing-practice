@@ -1,5 +1,9 @@
 # Test Case
 
+## Context
+This is a generic negative test case focused on email format validation.
+It is included as an example of test case design and was not executed on SauceDemo.
+
 ## Test Case ID
 TC-02
 
@@ -22,4 +26,4 @@ The system displays a validation message for invalid email format.
 (To be completed during execution)
 
 ## Status
-Pass / Fail
+Not Executed
