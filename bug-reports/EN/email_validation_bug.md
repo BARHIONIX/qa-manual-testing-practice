@@ -1,5 +1,9 @@
 # Bug Report
 
+## Context
+This bug report represents a common validation issue in web forms.
+It is included as an example of bug documentation and does not correspond to SauceDemo.
+
 ## Title
 Email field accepts invalid email format
 
@@ -30,4 +34,4 @@ Medium
 Medium
 
 ## Evidence
-Not available (manual testing)
+N/A Documentation example
