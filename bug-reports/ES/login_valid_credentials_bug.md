@@ -1,5 +1,9 @@
 # Reporte de Bug
 
+## Nota
+Este reporte de bug se incluye como un ejemplo de documentación de un problema crítico de inicio de sesión.
+El comportamiento descrito no ocurre en la aplicación SauceDemo.
+
 ## Título
 El inicio de sesión falla al usar credenciales válidas
 
@@ -30,4 +34,4 @@ Alta
 Alta
 
 ## Evidencia
-No disponible (prueba manual)
+N/A Ejemplo de un reporte de bug
